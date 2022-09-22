@@ -1,0 +1,37 @@
+.container-index,
+.container-one,
+.container-two,
+.container-three {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    color: white;
+}
+
+.container-one {
+    background-color: blue;
+}
+
+.container-two {
+    background-color: indianred;
+}
+
+.container-three {
+    background-color: darkorange;
+}
+
+.button {
+    margin: 350px 0;
+    padding: 20px 100px;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 5px;
+    color: white;
+    background-color: red;
+}
+
+.fresh {
+    height: 25%;
+    width: 25%;
+}
